@@ -95,6 +95,10 @@ a {
     opacity: 0.5;
 }
 
+.navbar-list a:hover {
+    color: aqua;
+}
+
 .navbar-list-item:nth-child(1) {
     font-family: 'Mulish-Bold';
     font-size: 18px;
@@ -160,6 +164,10 @@ a {
     border-radius: 55px;
     border: none;
     padding: 5px 40px;
+}
+
+.consult-btn:hover {
+    color: aqua;
 }
 
 .services-title {
